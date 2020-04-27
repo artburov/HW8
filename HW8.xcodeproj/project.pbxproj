@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		840412A02454B22400B24DFF /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8404129F2454B22400B24DFF /* NextViewController.swift */; };
+		840A7FFB24561D9900EEE6E4 /* SegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840A7FFA24561D9900EEE6E4 /* SegmentedControl.swift */; };
 		845B16572450B667007F9E6A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845B16562450B667007F9E6A /* AppDelegate.swift */; };
 		845B16592450B667007F9E6A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845B16582450B667007F9E6A /* SceneDelegate.swift */; };
 		845B165B2450B667007F9E6A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 845B165A2450B667007F9E6A /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		8404129F2454B22400B24DFF /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
+		840A7FFA24561D9900EEE6E4 /* SegmentedControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControl.swift; sourceTree = "<group>"; };
 		845B16532450B667007F9E6A /* HW8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW8.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		845B16562450B667007F9E6A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		845B16582450B667007F9E6A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				845B16582450B667007F9E6A /* SceneDelegate.swift */,
 				845B165A2450B667007F9E6A /* ViewController.swift */,
 				8404129F2454B22400B24DFF /* NextViewController.swift */,
+				840A7FFA24561D9900EEE6E4 /* SegmentedControl.swift */,
 				845B165C2450B667007F9E6A /* Main.storyboard */,
 				845B165F2450B669007F9E6A /* Assets.xcassets */,
 				845B16612450B669007F9E6A /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				845B165B2450B667007F9E6A /* ViewController.swift in Sources */,
 				840412A02454B22400B24DFF /* NextViewController.swift in Sources */,
 				845B16572450B667007F9E6A /* AppDelegate.swift in Sources */,
+				840A7FFB24561D9900EEE6E4 /* SegmentedControl.swift in Sources */,
 				845B16592450B667007F9E6A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
